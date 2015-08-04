@@ -1,3 +1,26 @@
+## moveit_planners (jade) - 0.6.7-0
+
+The packages in the `moveit_planners` repository were released into the `jade` distro by running `/usr/bin/bloom-release --track jade --rosdistro jade moveit_planners` on `Tue, 04 Aug 2015 14:39:47 -0000`
+
+These packages were released:
+- `moveit_planners`
+- `moveit_planners_ompl`
+
+Version of package(s) in repository `moveit_planners`:
+- upstream repository: https://github.com/ros-planning/moveit_planners.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.6.7-0`
+
+Versions of tools used:
+- bloom version: `0.5.20`
+- catkin_pkg version: `0.2.8`
+- rosdep version: `0.11.2`
+- rosdistro version: `0.4.2`
+- vcstools version: `0.1.36`
+
+
 ## moveit_planners (indigo) - 0.6.7-0
 
 The packages in the `moveit_planners` repository were released into the `indigo` distro by running `/usr/bin/bloom-release -t indigo -r indigo moveit_planners` on `Tue, 28 Oct 2014 20:15:21 -0000`
